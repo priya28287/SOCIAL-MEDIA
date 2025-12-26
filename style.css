@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+}
+
+textarea {
+  width: 300px;
+  height: 60px;
+}
+
+.post {
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 10px;
+  width: 300px;
+}
